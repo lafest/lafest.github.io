@@ -100,16 +100,6 @@ author:
   location         : "Seoul, Korea"
   email            : "dnl9807@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dnl9807@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lafest"
-
-# Site Footer
-footer:
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lafest"
