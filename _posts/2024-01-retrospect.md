@@ -1,7 +1,7 @@
 ---
 title: "2024년 1월 회고"
-date: 2022-01-04 03:00:00 +0900
-categories: lifestyle
+date: 2024-01-31 00:00:00 +0900
+categories: retrospect
 ---
 
 ### 새해 다짐
